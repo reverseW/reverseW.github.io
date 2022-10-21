@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reverseW.github.io/sitemap.xml
