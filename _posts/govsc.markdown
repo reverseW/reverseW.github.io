@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "对比Go和C++编译器生成的汇编"
+date:   2022-10-21 22:51:44 +0800
 categories: programming
 ---
 
