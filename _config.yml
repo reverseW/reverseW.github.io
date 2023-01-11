@@ -21,7 +21,7 @@
 title: Ruminations on Computer System
 email: 2495783349@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  软件系统设计和编程的思考
+  A collection of computer system's design and programming
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
