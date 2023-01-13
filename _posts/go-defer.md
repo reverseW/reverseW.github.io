@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Go语言defer的作用域为当前函数"
-date:   2023-1-10 22:51:44 +0800
 categories: programming
 ---
 
