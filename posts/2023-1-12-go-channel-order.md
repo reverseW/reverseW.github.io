@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Go语言channel的输出顺序"
-date:   2023-1-12 22:51:44 +0800
+date:   2023-1-10 22:51:44 +0800
 categories: programming
 ---
 
